@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on frontend projects<br>🤝 I’m looking for help with backend on "compareprecios"<br>🌱 I’m currently learning React, Node & Python<br>👨‍💻⚡Software Engineering 2/5
+🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on fullstack projects<br>🤝 I’m looking for help with backend on "compareprecios"<br>🌱 I’m currently learning React, Node & Python<br>👨‍💻⚡Software Engineering 2/5
 
 
 ## 🌐 Socials:
