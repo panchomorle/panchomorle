@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "CancioNito!🎵" & "Bibliadle"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning React, Node & Python<br>👨‍💻⚡Systems Engineering 2/5 at UAP
+🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning Typescript & C# with .NET framework<br>👨‍💻⚡Systems Engineering 2/5 at UAP
 
 
 ## 🌐 Socials:
