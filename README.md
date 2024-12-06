@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning Typescript & C# with .NET framework<br>👨‍💻⚡Systems Engineering 2/5 at UAP
+
+*My highlited projects* (check my pinned)
+"Conquidex"🏕️ ft. <a href="https://github.com/andrewblockernst" target="_blank">Andrew</a> - A complete software that manages pathfinder clubs, its members and their progresses.
+"CancioNito!"🎵 - A WhatsApp bot that sends lyrics and chords from christian songbooks.
+"Bibliadle" 🎮 - The famous wordle game but with bible words in spanish.
+🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning NextJS<br>👨‍💻⚡Systems Engineering 3/5 at UAP
 
 
 ## 🌐 Socials:
