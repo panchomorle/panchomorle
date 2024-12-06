@@ -1,11 +1,9 @@
+# _My highlited projects_ (check my pinned)
+- "Conquidex"🏕️ ft. <a href="https://github.com/andrewblockernst" target="_blank">Andrew</a> - A complete software that manages pathfinder clubs, its members and their progresses.
+- "CancioNito!"🎵 - A WhatsApp bot that sends lyrics and chords from christian songbooks.
+- "Bibliadle" 🎮 - The famous wordle game but with bible words in spanish. <br>
 # 💫 About Me:
-
-## _My highlited projects_ (check my pinned)
-
-"Conquidex"🏕️ ft. <a href="https://github.com/andrewblockernst" target="_blank">Andrew</a> - A complete software that manages pathfinder clubs, its members and their progresses.
-"CancioNito!"🎵 - A WhatsApp bot that sends lyrics and chords from christian songbooks.
-"Bibliadle" 🎮 - The famous wordle game but with bible words in spanish.
-🔭 I’m currently working on "CancioNito!🎵"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning NextJS<br>👨‍💻⚡Systems Engineering 3/5 at UAP
+🔭 I’m currently working on "Conquidex"<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning NextJS<br>👨‍💻⚡Systems Engineering 3/5 at UAP
 
 
 ## 🌐 Socials:
