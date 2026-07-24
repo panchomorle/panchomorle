@@ -1,6 +1,6 @@
 # _My highlited projects_ (check my pinned)
 - "<a href="https://github.com/panchomorle/pianoconnotas" target="_blank">Piano Con Notas</a>" 🎹 - Little project I made to study music sheets in my spare time. <a href="https://pianoconnotas.vercel.app" target="_blank"> Take a look at it. </a>
-- "<a href="https://github.com/panchomorle/AI-to-word-converter" target="_blank">MD to Word</a>" 🎹 - I just needed a tool to convert AI text with artifacts and math formulas to clean documents. <a href="https://mdword.vercel.app" target="_blank"> Use it for free here. </a>
+- "<a href="https://github.com/panchomorle/AI-to-word-converter" target="_blank">MD to Word</a>" 🤖 - I just needed a tool to convert AI text with artifacts and math formulas to clean documents. <a href="https://mdword.vercel.app" target="_blank"> Use it for free here. </a>
 - "<a href="https://github.com/panchomorle/conquidex-frontend" target="_blank">Conquidex</a>"🏕️ ft. <a href="https://github.com/andrewblockernst" target="_blank">Andrew</a> - A complete software that manages pathfinder clubs, its members and their progresses.
 - "<a href="https://github.com/panchomorle/cancionitoTS" target="_blank">CancioNito</a>!"🎵 - A WhatsApp bot that sends lyrics and chords from christian songbooks.
 - "<a href="https://github.com/panchomorle/bibliadle" target="_blank">Bibliadle</a>" (forked) 🎮 - The famous wordle game but with bible words in spanish.
